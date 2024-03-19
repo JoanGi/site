@@ -13,15 +13,12 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "https://twitter.com/home"
-linkedin: "https://www.linkedin.com/in/joan-giner-miguelez/"
-stackoverflow: "#"
-github: "https://github.com/JoanGi"
-researchgate: "https://scholar.google.es/citations?user=zTSql-wAAAAJ&hl=ca&oi=ao"
-orcid: "https://orcid.org/0000-0003-2335-6977"
-quora: "#"
-instagram: "#"
-facebook: "#"
+twitter: "giner_joan"
+linkedin: "joan-giner-miguelez/"
+github: "JoanGi"
+researchgate: "Joan-Giner-Miguelez"
+orcid: "0000-0003-2335-6977"
+
 
 
 # Markdown
