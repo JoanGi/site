@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Joan Giner-Miguelez
+description: Researcher | Universitat Oberta de Catalunya (UOC) | Better data for a better data-driven world.
 
 baseurl: /website_portfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: #jginermi@uoc.edu
 
 # Pagination
 paginate: 4
@@ -13,12 +13,12 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
+twitter: "https://twitter.com/home"
+linkedin: "https://www.linkedin.com/in/joan-giner-miguelez/"
 stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+github: "https://github.com/JoanGi"
+researchgate: "https://scholar.google.es/citations?user=zTSql-wAAAAJ&hl=ca&oi=ao"
+orcid: "https://orcid.org/0000-0003-2335-6977"
 quora: "#"
 instagram: "#"
 facebook: "#"
