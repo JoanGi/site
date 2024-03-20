@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Click to Redirect to Project
-description: with no page entry here
-redirect: https://unsplash.com
+title: Croissant RAI extensions
+description: Responsible AI extension of the Croissant Vocabulary
+redirect: 
 ---
