@@ -3,7 +3,7 @@
 title: Joan Giner-Miguelez
 description: Researcher at Universitat Oberta de Catalunya (UOC) 
 
-baseurl: /website_portfolio #name of GitHub repository
+baseurl: /site #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: jginermi@uoc.edu
 
