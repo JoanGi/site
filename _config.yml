@@ -5,7 +5,7 @@ description: Researcher at Universitat Oberta de Catalunya (UOC)
 
 baseurl: /website_portfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #jginermi@uoc.edu
+email: jginermi@uoc.edu
 
 # Pagination
 paginate: 4
