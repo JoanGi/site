@@ -7,13 +7,7 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
-
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
-
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
-
-PS: If you liked the theme, do star it on GitHub!
+I'm a researcher who focuses on improving data practices for fair and trustworthy machine learning. I'm interested in the intersection of data engineering and society, as well as how the new AI regulation will affect how we develop ML applications. I'm currently involved in the Croissant Responsible AI extension, which is a community-led project led by the MLCommons consortium to standardize data-sharing practices for machine learning. I have taught, created course content, and coordinated practicums for web and software development courses at UAB and UOC. Previously, I worked as a software architect for international companies, and I was elected to the Catalan Parliament (2015-2018) and served as the Science and Technology Committee's spokesman.
 
 ### Also, check out:
 
