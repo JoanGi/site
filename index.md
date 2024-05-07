@@ -11,7 +11,7 @@ I'm a researcher who focuses on improving data practices for fair and trustworth
 
 ### Publications:
 
-* [Croissant Responsible AI Extension](https://mlcommons.github.io/croissant/docs/croissant-rai-spec.html) specification 1.0, MLCommons et al., March 2024,
+* [Croissant: A Metadata Format for ML-Ready Datasets](https://arxiv.org/pdf/2403.19546). Akhtar, Mubashara and Benjelloun, Omar and Conforti, Costanza and Giner-Miguelez, Joan and others, DEEM Workshop, April 2024,
 * [On the Readiness of Scientific Data for a Fair and Transparent Use in Machine Learning ](https://arxiv.org/abs/2401.10304). Giner-Miguelez, Joan, Abel Gómez, and Jordi Cabot. January 2024, arXiv preprint
 * [DataDoc Analyzer](https://dl.acm.org/doi/abs/10.1145/3583780.3614737), a tool for analyzing the documentation of scientific datasets. At 32nd ACM International Conference on Information and Knowledge Management (CIKM), October 2023.
 * [A domain-specific language for describing machine learning datasets](https://doi.org/10.1016/j.cola.2023.101209). Journal of Computer Languages, April 2023, 101209, ISSN 2590-1184,
